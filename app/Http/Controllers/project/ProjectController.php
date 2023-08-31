@@ -13,8 +13,6 @@ use Illuminate\Http\Request;
 
 class ProjectController
 {
-
-//private ProjectInterface $projectRepository;
     /**
      * @param ProjectServiceInterface $service
      */
